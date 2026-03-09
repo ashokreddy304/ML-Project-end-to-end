@@ -1,0 +1,6 @@
+1. set up the github {repository}
+2. new environment
+3. setup.py
+4. requirements.txt
+===================================================
+6. Added SRC Folder and build the packages.
