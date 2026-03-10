@@ -1,6 +1,10 @@
+================= Day - 1 =================================
 1. set up the github {repository}
 2. new environment
 3. setup.py
 4. requirements.txt
-===================================================
+==================== Day - 2 ==============================
 6. Added SRC Folder and build the packages.
+7. Added exception.py file to check errors in particular line and page.
+8. Added logger file.
+========================== Day - 3 ========================
